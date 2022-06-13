@@ -10,4 +10,5 @@
 - 2022.5.16 凌云相机、flir相机、realsense相机相关
 - 2022.5.19 KinectV1相机驱动RGBD、 ROS入门基础资料
 - 2022.5.31 KinectV2相机驱动、ROS1相关pdf资料、slam十四讲pdf
-- 2022.6.2 综述SLAM、三维重建、ROS2资料
+- 2022.6.2  综述SLAM、三维重建、ROS2资料
+- 2022.6.13 添加入门学习计划  [StudyPlan.md](StudyPlan.md)
